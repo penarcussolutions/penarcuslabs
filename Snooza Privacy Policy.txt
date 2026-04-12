@@ -1,0 +1,60 @@
+Privacy Policy
+Effective Date: March 17, 2026
+Thank you for using Snooza (“we”, “our”, or “us”). This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+
+1. Information We Collect
+We aim to collect as little personal data as possible.
+a. Personal Information
+We do not directly collect personally identifiable information such as your name, email address, or phone number.
+b. Usage Data
+We may collect non-personal information automatically, including:
+Device type and model
+Operating system
+App usage behavior (e.g., features used, session duration)
+This data helps us improve app performance and user experience.
+c. Advertising Data
+Our app may display ads provided by third-party advertising networks. These services may collect:
+Device identifiers
+Approximate location
+Interaction with ads
+This data is used to provide more relevant advertisements.
+
+2. How We Use Information
+We use collected data to:
+Improve app performance and stability
+Understand how users interact with the app
+Display and optimize advertisements
+Provide optional premium features (e.g., ad removal)
+
+3. In-App Purchases
+Our app offers optional in-app purchases (such as removing ads or unlocking features).
+All payments are processed securely through Google Play. We do not collect or store any payment information.
+
+4. Third-Party Services
+We may use third-party services that collect information to help us operate the app, including:
+Advertising networks (e.g., AdMob, AppLovin)
+Analytics tools
+These third parties have their own privacy policies governing how they use data.
+
+5. Data Security
+We take reasonable measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure.
+
+6. Children’s Privacy
+Our app is not intended for children under the age of 13.
+We do not knowingly collect personal information from children. If you believe a child has provided personal data, please contact us so we can remove it.
+
+7. Your Choices
+You can:
+Disable personalized ads through your device settings
+Remove ads by purchasing the premium version
+Uninstall the app at any time
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+Email: penarcus.solutions@gmail.com
+
+10. Consent
+By using Snooza, you agree to this Privacy Policy.
